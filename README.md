@@ -10,6 +10,8 @@
 8. [Overfitting](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_42.ipynb)
 9. [CNN](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_61.ipynb)
 10. [CNN with Tensorboard](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_62.ipynb)
+10. [RNN-LSTM](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_71.ipynb)
+
 
 ## Requirements
 
