@@ -11,6 +11,8 @@
 9. [CNN](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_61.ipynb)
 10. [CNN with Tensorboard](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_62.ipynb)
 10. [RNN-LSTM](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_71.ipynb)
+10. [saver-Save](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_81.ipynb)
+10. [saver-Restore](https://github.com/rh01/TensorFlow-Tutorial/blob/v2/Course_82.ipynb)
 
 
 ## Requirements
